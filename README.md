@@ -1,4 +1,4 @@
 ```
-markdown->JSON->cheatsheet website->png
+markdown->JSON->GenerateCheatsheet->png
 ```
 
